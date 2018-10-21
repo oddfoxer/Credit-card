@@ -1,0 +1,10 @@
+
+{
+  "name": "nothing",
+  "description": "test[Written in PHP]",
+  "website": "https://github.com/doudoubinga/",
+  "repository": "https://github.com/doudoubinga/nothing",
+  "success_url": "index.html",
+  "env":{
+  }
+}
